@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f126194dd389a7f42ae8075141a2713c
+timeCreated: 1508570936
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: STXingkai
+  fontNames:
+  - STXingkai
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
